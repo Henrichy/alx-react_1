@@ -1,16 +1,5 @@
 # 0x01. React intro
 
-## Description:bulb:
-
-It doesn't matter where you are, I will find you and I will render you
-
-- How to create a basic Javascript application using React
-- How to use the package `create-react-app` to start developing quickly with React
-- What JSX is and how to use it
-- How to use the React Developer Tools to debug your code
-- How to use Enzyme's Shadow rendering to test your application
-- How to use React with Webpack & Babel
-
 ## Technologies & Tools:computer:
 
 [![Jest](https://img.shields.io/badge/≡-Jest-C21325?logo=Jest&style=flat-square&labelColor=282828&logoColor=C21325)](https://jestjs.io/)
@@ -57,14 +46,6 @@ foo@pop-os:~$ sudo bash nodesource_setup.sh
 foo@pop-os:~$ sudo apt install nodejs -y
 ```
 
-### Check version
-
-```console
-foo@pop-os:~$ nodejs -v
-v12.22.1
-foo@pop-os:~$ npm -v
-6.14.12
-```
 
 ---
 
@@ -98,7 +79,4 @@ foo@pop-os:~$ npm -v
 
 ## Author
 
-- **Joseph Mahiuha** (@Mahiuha) - [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://mahiuha.github.io/josephmahiuha/)
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/Joseph_Mahiuha)
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joseph-mahiuha-498a52162/)
-  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/Mahiuha)
+Nzekwe Henry
